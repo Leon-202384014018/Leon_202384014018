@@ -31,7 +31,7 @@ HTML5 + CSS3, plus a small read-only script for the live clock. One file, no fra
 
 Double-click `index.html` in a browser.
 
-To upload: on GitHub go to **Add file → Upload files**, drag in `index.html` and this README, then **Commit changes**.
+
 
 ## Author
 
